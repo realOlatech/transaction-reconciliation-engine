@@ -169,7 +169,8 @@ It also reinforced an important principle: data analytics is not only
 about presenting data, but also about building practical solutions to
 business problems.
 
-<img width="1501" height="693" alt="Screenshot 2026-11-11 143215" src="https://github.com/user-attachments/assets/daa576bc-a9df-4db5-87ff-e10097823e07" />
+<img width="1535" height="709" alt="Screenshot 2026-11-18 042323" src="https://github.com/user-attachments/assets/5476be8c-74a7-4f21-9660-b707c8e2a962" />
+
 
 
 **Project:** Transaction Reconciliation Engine\
